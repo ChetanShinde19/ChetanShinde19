@@ -20,8 +20,7 @@
   </a>
 
   <a href="mailto:chetanshinde3726@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-    
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> 
   </a>
 
 </div>
@@ -30,8 +29,7 @@
 
 <div>
 <p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=chetanshinde19.visitor-badge&left_text=visitors&left_color=%231d1b1b&right_color=%2300a2ff&format=true&logo=github&height=25" alt="visitor badge"/>
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=Profile%20Views&left_color=%23121111&right_color=%2300a2ff&logo=github&height=25" alt="visitor badge"/></p>
 </div>
 
 # 🚀 About Me
