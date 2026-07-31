@@ -12,7 +12,6 @@
 
   <a href="https://www.linkedin.com/in/chetan-shinde-731b50377/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img width="100" height="100" alt="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483 (1)" src="https://github.com/user-attachments/assets/d86a006a-63f6-4f3b-8eca-ad3d8fcedc63" />
 
   </a>
 
