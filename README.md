@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChetanShinde19.ChetanShinde19"/>
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=chetanshinde19.visitor-badge&left_text=visitors&left_color=%23212121&right_color=%2300a2ff&format=true&logo=github&height=30" alt="visitor badge"/></p>
 
 ---
 
@@ -34,17 +33,17 @@
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChetanShinde19&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=chetanshinde19&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=ChetanShinde19&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=chetanshinde19&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanShinde19&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanshinde19&layout=compact&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChetanShinde19&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=chetanshinde19&theme=tokyonight)
 
 ---
 
