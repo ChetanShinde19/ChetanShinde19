@@ -48,7 +48,7 @@
 <h2>💻 Languages</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js" />
 </p>
   
 <p>
