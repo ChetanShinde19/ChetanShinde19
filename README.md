@@ -2,7 +2,9 @@
 
 <div>
 <p>
-  <h1> 👋 Hi, I'm Chetan Shinde</h1>
+  <h1>
+<img width="32" height="32" alt="sw" src="https://github.com/user-attachments/assets/a379f52a-9ae9-4d76-ace2-9f1bc15f0484" />
+ Hi, I'm Chetan Shinde</h1>
 </p>
 </div>
 
