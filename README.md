@@ -31,8 +31,8 @@
 
 <div>
 <p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=Profile%20Views&left_color=%23121111&right_color=%2300a2ff&logo=github&height=25" alt="visitor badge"/></p>
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=chetanshinde19.visitor-badge&left_text=Profile%20Views&left_color=%230d0c0c&right_color=%2300a2ff&logo=github&height=25" alt="visitor badge"/></div>
+</p>
 
 # 🚀 About Me
 
