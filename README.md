@@ -83,7 +83,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chetanshinde19/chetanshinde19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <p align="center">
