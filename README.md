@@ -1,81 +1,91 @@
-# 👋 Hi, I'm Chetan Shinde
+<div>
+  <img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/30260607-5846-4388-b271-0c2f170f7d4c" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate;Spring+Boot+%7C+React+%7C+MySQL;AWS+Cloud+Developer;Always+Learning+New+Technologies+🚀"/>
+<div>
+<p>
+  <h1> 👋 Hi, I'm Chetan Shinde</h1>
 </p>
+</div>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=chetanshinde19.visitor-badge&left_text=visitors&left_color=%23212121&right_color=%2300a2ff&format=true&logo=github&height=30" alt="visitor badge"/></p>
+<div align="left">
 
----
+  <a href="https://www.linkedin.com/in/chetan-shinde-731b50377/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img width="100" height="100" alt="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483 (1)" src="https://github.com/user-attachments/assets/d86a006a-63f6-4f3b-8eca-ad3d8fcedc63" />
+
+  </a>
+
+<a href="https://leetcode.com/u/chetanshinde19/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="25" alt="leetcode logo" />
+  
+  </a>
+
+  <a href="mailto:chetanshinde3726@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    
+  </a>
+
+</div>
+
+###
+
+<div>
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=chetanshinde19.visitor-badge&left_text=visitors&left_color=%231d1b1b&right_color=%2300a2ff&format=true&logo=github&height=25" alt="visitor badge"/>
+</p>
+</div>
 
 # 🚀 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
 - ☕ Java Full Stack Developer
 - 🗄️ SQL & MySQL Enthusiast
 - ☁️ AWS Academy Cloud Developing Graduate
 - 🌱 Currently learning Spring Boot, React and System Design
 - 💼 Open to Software Development Opportunities
+- 💡 Building projects and improving problem-solving skills
 
----
 
-# 💻 Tech Stack
+<div>
+<h2>💻 Languages</h2>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js" />
+</p>
+  
+<p>
+  <h2>🚀 Frameworks & Libraries</h2>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+  </p>
+</p>
 
----
+<p>
+  <h2>⚙️ Databases & Cloud</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,aws" />
+</p>
+</p>
+
+<p>
+  <h2>🛠️ Tools & Platforms</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,eclipse" />
+</p>
+</p>
+</div>
 
 # 📊 GitHub Stats
+<div>
+  <p>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chetanshinde19&theme=github-dark&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=555" alt="GitHub Streak" /></a>
+  </p>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chetanshinde19&show_icons=true&theme=tokyonight)
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/chetanshinde19/chetanshinde19/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chetanshinde19&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanshinde19&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=chetanshinde19&theme=tokyonight)
-
----
-
-# 🐍 Contribution Snake
-
-Generate using GitHub Actions:
-https://github.com/Platane/snk
-
----
-
-# 🚀 Featured Projects
-
-- 📚 Library Management System
-- ✈️ Airline Reservation System
-- 🏢 CRM Management System
-- 🗄️ SQL Practice Repository
-- ☁️ AWS Cloud Projects
-
----
-
-# 📜 Certifications
-
-- AWS Academy Cloud Developing
-- Java Full Stack
-- SQL
-
----
-
-# 📫 Connect
-
-- GitHub: https://github.com/ChetanShinde19
-
----
-
-⭐ *Code • Learn • Build • Repeat*
+<p align="center">
+⭐ Code • Learn • Build • Repeat ⭐
+</p>
