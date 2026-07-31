@@ -1,83 +1,82 @@
-<!-- ## Hi there 👋-->
-<h1 align="center">
-Hi 👋, I'm <span style="color:#00C2FF;">Chetan Shinde</span>
-</h1>
-
-<h3 align="center">
-Java Full Stack Developer | AI & Data Science Graduate | AWS Cloud Learner
-</h3>
+# 👋 Hi, I'm Chetan Shinde
 
 <p align="center">
-🚀 Building Scalable Applications • ☁️ Exploring Cloud • 💻 Solving Real World Problems
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate;Spring+Boot+%7C+React+%7C+MySQL;AWS+Cloud+Developer;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Chetan+Shinde;Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate;Spring+Boot+%7C+React+%7C+MySQL;AWS+Cloud+Developer;Always+Learning+New+Things+🚀"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChetanShinde19.ChetanShinde19"/>
 </p>
-────────────────────────────────────────
 
-CHETAN SHINDE
+---
 
-JAVA FULL STACK DEVELOPER
+# 🚀 About Me
 
-AI & DATA SCIENCE
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- ☕ Java Full Stack Developer
+- 🗄️ SQL & MySQL Enthusiast
+- ☁️ AWS Academy Cloud Developing Graduate
+- 🌱 Currently learning Spring Boot, React and System Design
+- 💼 Open to Software Development Opportunities
 
-AWS CLOUD
+---
 
-SQL | SPRING BOOT | REACT
+# 💻 Tech Stack
 
-────────────────────────────────────────
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 👨‍💻 About Me
+---
 
-🎓 B.Tech Graduate in Artificial Intelligence & Data Science
+# 📊 GitHub Stats
 
-💻 Java Full Stack Developer
+![Stats](https://github-readme-stats.vercel.app/api?username=ChetanShinde19&show_icons=true&theme=tokyonight)
 
-☁ AWS Academy Cloud Developing Graduate
+![Streak](https://streak-stats.demolab.com?user=ChetanShinde19&theme=tokyonight)
 
-🗄 SQL & Database Enthusiast
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanShinde19&layout=compact&theme=tokyonight)
 
-🚀 Building Enterprise Projects
+---
 
-📍 India
+# 🏆 GitHub Trophies
 
-## 🚀 Currently Working On
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChetanShinde19&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-✔ CRM Management System
+---
 
-✔ Airline Reservation System
+# 🐍 Contribution Snake
 
-✔ MySQL
+Generate using GitHub Actions:
+https://github.com/Platane/snk
 
-✔ AWS Cloud
+---
 
-GitHub Stats
+# 🚀 Featured Projects
 
-GitHub Streak
+- 📚 Library Management System
+- ✈️ Airline Reservation System
+- 🏢 CRM Management System
+- 🗄️ SQL Practice Repository
+- ☁️ AWS Cloud Projects
 
-Top Languages
+---
 
-Contribution Graph
+# 📜 Certifications
 
-Featured Projects
+- AWS Academy Cloud Developing
+- Java Full Stack
+- SQL
 
-⭐ CRM Management System
+---
 
-⭐ Airline Reservation System
+# 📫 Connect
 
-⭐ Library Management System
+- GitHub: https://github.com/ChetanShinde19
 
-⭐ SQL Practice Repository
+---
 
-⭐ AWS Projects
-
-⭐ Java Full Stack Projects
-
-Contact
-
-GitHub
-
-LinkedIn
-
-Email
+⭐ *Code • Learn • Build • Repeat*
