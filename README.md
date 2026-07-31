@@ -1,6 +1,4 @@
-<div>
-  <img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/30260607-5846-4388-b271-0c2f170f7d4c" />
-</div>
+
 
 <div>
 <p>
