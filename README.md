@@ -47,16 +47,16 @@
 <h2>💻 Languages</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css" />
 </p>
-  
+<!--  
 <p>
   <h2>🚀 Frameworks & Libraries</h2>
   <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,react" />
   </p>
 </p>
-
+-->
 <p>
   <h2>⚙️ Databases & Cloud</h2>
 <p align="left">
@@ -67,7 +67,7 @@
 <p>
   <h2>🛠️ Tools & Platforms</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,eclipse" />
 </p>
 </p>
 </div>
