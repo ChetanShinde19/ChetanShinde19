@@ -60,7 +60,7 @@
 <p>
   <h2>⚙️ Databases & Cloud</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 </p>
 
